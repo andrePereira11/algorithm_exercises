@@ -1,0 +1,14 @@
+{
+  "name": "algorithm_exercises",
+  "version": "1.0.0",
+  "description": "Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andre Luis de Andrade Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.1"
+  }
+}
